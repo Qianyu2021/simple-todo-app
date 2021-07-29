@@ -99,6 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 saveItems();
             }
         });
+
     }
 
     // handle the result of the edit activity
