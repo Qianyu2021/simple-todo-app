@@ -2,12 +2,8 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/btnSave"
-    layout_height=""
-    layout_width=""
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="Save">
+    android:layout_height="match_parent">
     <EditText
         android:id="@+id/etItem"
         android:layout_width="wrap_content"
