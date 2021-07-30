@@ -8,7 +8,7 @@ Submitted by: **Qian Yu**
 
 Time spent: **about 24** hours spent in total
 
-## Useuser Stories
+## user Stories
 
 The following **required** functionality is completed:
 
